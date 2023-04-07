@@ -123,3 +123,4 @@ export default function Authenticated({ user, header, children }) {
         </div>
     );
 }
+@inertiajs/inertia-vue3
